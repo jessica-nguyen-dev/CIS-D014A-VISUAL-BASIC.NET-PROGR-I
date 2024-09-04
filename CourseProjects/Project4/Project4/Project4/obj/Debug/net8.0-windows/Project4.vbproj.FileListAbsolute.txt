@@ -1,0 +1,32 @@
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.exe
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.deps.json
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.runtimeconfig.json
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.pdb
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.vbproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.AssemblyInfo.vb
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.vbproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\refint\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.pdb
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\ref\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.FrmProject4A.resources
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.exe
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.deps.json
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.runtimeconfig.json
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\bin\Debug\net8.0-windows\Project4.pdb
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.FrmProject4A.resources
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.vbproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.AssemblyInfo.vb
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.vbproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\refint\Project4.dll
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.pdb
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\Project4.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Desktop\CODE PROJECTS\CIS 14A\Projects\Project4\Project4\Project4\obj\Debug\net8.0-windows\ref\Project4.dll
