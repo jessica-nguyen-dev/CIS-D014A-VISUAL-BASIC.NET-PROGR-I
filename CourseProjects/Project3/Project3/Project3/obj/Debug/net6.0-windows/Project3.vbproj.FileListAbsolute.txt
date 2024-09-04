@@ -1,0 +1,17 @@
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\bin\Debug\net6.0-windows\Project3.exe
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\bin\Debug\net6.0-windows\Project3.deps.json
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\bin\Debug\net6.0-windows\Project3.runtimeconfig.json
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\bin\Debug\net6.0-windows\Project3.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\bin\Debug\net6.0-windows\Project3.pdb
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.vbproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfo.vb
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.vbproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\refint\Project3.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.pdb
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\ref\Project3.dll
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.FrmProject3B.resources
+C:\Users\jessi\OneDrive\Desktop\CIS 14A\Projects\Project3\Project3\Project3\obj\Debug\net6.0-windows\Project3.FrmShowDisplay.resources
