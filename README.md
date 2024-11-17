@@ -1,6 +1,4 @@
-De Anza College Fall 2023
-
-# C++ Classwork Repository
+# C++ Classwork Repository (De Anza College Fall 2023)
 
 This repository contains a collection of code snippets, exercises, and small projects from my C++ class. These examples demonstrate my understanding and practice of core C++ concepts, including object-oriented programming, algorithms, and data structures.
 
